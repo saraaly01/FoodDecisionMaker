@@ -1,0 +1,7 @@
+The Cheesecake Factory 		0 3 8.2
+Applebee's	       		0 2 7.1
+Crab Du Jour           		0 3 2.4
+Boston Market          		0 1 2.0
+Panera Bread           		0 1 1.0
+Ewing Diner            		0 2 1.8
+Legend, Subs, Wings & Kababs    0 1 1.2

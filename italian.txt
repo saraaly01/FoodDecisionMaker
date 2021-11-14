@@ -1,0 +1,6 @@
+Mama Flora Trattoria 0 2 2.6
+Pastadoro 0 2 1.0
+Salerno's 0 1 1.1
+Olive Garden 0 2 8.2
+Brio Italian Grille 0 3 7.3
+Stella's Pizza 0 1 2.0

@@ -1,0 +1,8 @@
+Yummy Sushi 0 2 0.9
+IndiGril 0 1 0.9
+Ajika Ramen 0 3 2.2
+Number 1 Chinese Restaurant 0 1 2.5
+Amaravati Indian Restaurant 0 2 9
+Sarku Japan 0 1 7.2
+Master Wok 0 2 7.2
+Tan May Chinese Restaurant 0 1 2.5

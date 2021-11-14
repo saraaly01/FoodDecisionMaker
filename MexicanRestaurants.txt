@@ -1,0 +1,7 @@
+Chipotle            0 1 8.2
+Mexican Mariachi    0 1 0.9
+La Taqueria         0 2 3.7
+El Jalapeno         0 2 7.5
+Totopos             0 2 4.4
+Sabor Latino 	    0 3 4.0
+Buen Provecho Restaurant & Cafe 0 3 6.6

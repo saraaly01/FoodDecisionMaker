@@ -1,0 +1,12 @@
+Popeyes 0 1 3.2
+Burger King 0 1 2.8
+Taco Bell 0 1 2.5
+Sonic 0 1 2.8
+Wendy's 0 1 2.6
+WingStop 0 2 3.7
+Buffalo Wild Wings 0 2 9.8
+Chick-fil-a 0 1 5.8
+Wawa 0 1 1.9
+McDonalds 0 1 2.4
+Five Guys 0 3 1.9
+Shake Shack 0 3 8.4
